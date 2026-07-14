@@ -6,9 +6,9 @@ The past two years have been the fastest moving stretch software engineering has
  
 ## What I'm doing now
  
-** Tech Lead @ Meels** — a social video platform for food content, built solo from the ground up (React Native, Node.js/Fastify, PostgreSQL, Cloudflare R2). Meels exists to get food creators better brand deals and better pay, instead of grinding for exposure with nothing to show for it.
+**Tech Lead @ Meels** — a social video platform for food content, built solo from the ground up (React Native, Node.js/Fastify, PostgreSQL, Cloudflare R2). Meels exists to get food creators better brand deals and better pay, instead of grinding for exposure with nothing to show for it.
  
-** Software Engineer @ Distrosub** — a music streaming startup. Distrosub's whole reason for existing is that Spotify pays artists close to nothing per stream. We're building something that pays artists fairly.
+**Software Engineer @ Distrosub** — a music streaming startup. Distrosub's whole reason for existing is that Spotify pays artists close to nothing per stream. We're building something that pays artists fairly.
  
 Both of these matter to me because they're solving a real problem for real people, not just chasing a market.
  
